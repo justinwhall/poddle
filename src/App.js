@@ -9,6 +9,7 @@ function App() {
         <p>
           Eyeless poddle says it's an 8.
         </p>
+        <div>(p.s. put some eyes on your dogs)</div>
       </header>
     </div>
   );
